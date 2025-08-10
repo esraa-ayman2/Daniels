@@ -425,8 +425,7 @@ opacity: 1;
 justify-content: center;
 align-content: center;
   color: rgb(255, 255, 255);
-  width: 30px;
-  height: 30px;
+ margin: 2px;
   background-color: black;
   border-radius: 50%;
   transition: all 0.5s;
@@ -504,8 +503,7 @@ background-color: #F7F7F7;
 }
 .social i{
   color: rgb(255, 255, 255);
-  width: 45px;
-  height: 45px;
+ 
   border-radius: 50%;
   background-color: black;
   transition: all 0.3s;
