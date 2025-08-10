@@ -38,7 +38,8 @@
   scroll-behavior: smooth;
   scroll-padding: 5%;
 }
-body{
+body, html{
+   overflow-x: hidden;
     box-sizing: border-box;
     font-family: "Montserrat", sans-serif !important;
     line-height: 1.42857143;
