@@ -52,10 +52,6 @@
   scroll-padding: 5%;
 }
 
-.page-wrapper {
-  overflow-x: hidden;
-}
-
 body {
   box-sizing: border-box;
   font-family: "Montserrat", sans-serif !important;
